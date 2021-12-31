@@ -1,4 +1,15 @@
-### Hi there 👋
+## Hi there! 👋
+### Welcome to my github profile!
+
+* I'm a [Hacktiv8](https://hacktiv8.com/) alumni 🎓
+
+* I'm currently working as a software engineer
+
+### These are some of my projects:
+
+* [Simple Projects](https://simple-projects-9139a.web.app/), this projects include many app that i created
+
+Thanks!
 
 <!--
 **Fikrimarzuki/fikrimarzuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
