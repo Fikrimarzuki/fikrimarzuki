@@ -14,7 +14,7 @@
 
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-    <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/fikrimarzuki/">
+    <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/fikri-marzuki/">
 			<img src="https://img.icons8.com/color/linkedin">
     </a>
     <a style="margin-left: 10px;" target="_blank" href="https://github.com/fikrimarzuki">
