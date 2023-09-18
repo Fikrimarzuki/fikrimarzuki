@@ -9,7 +9,22 @@
 
 * [Simple Projects](https://simple-projects-9139a.web.app/), this projects include many app that i created
 
-Thanks!
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<p align="center">
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+    <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/fikrimarzuki/">
+			<img src="https://img.icons8.com/color/linkedin">
+    </a>
+    <a style="margin-left: 10px;" target="_blank" href="https://github.com/fikrimarzuki">
+		  <img src="https://img.icons8.com/color/github">
+    </a>
+     <a style="margin-left: 10px;" target="_blank" href="https://gitlab.com/fikrimarzuki">
+  		  <img src="https://img.icons8.com/color/gitlab">
+      </a>
+  </div>
+</p>
 
 <!--
 **Fikrimarzuki/fikrimarzuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
