@@ -7,6 +7,7 @@
 
 ### These are some of my projects:
 
+* [Portfolio](https://cv.fikrimarzuki.com), this is my portfolio website
 * [Simple Projects](https://simple-projects-9139a.web.app/), this projects include many app that i created
 
 <br/>
