@@ -1,46 +1,60 @@
-## Hi there! 👋
-### Welcome to my github profile!
-
-🎓 I'm a [Hacktiv8](https://hacktiv8.com/) alumni.<br/>
-💻 Currently working as a software engineer with experience in both frontend and backend development.
-
-### Here are some of my projects:
-
-* [Portfolio](https://cv.fikrimarzuki.com): My personal portfolio website.
-* [Playground](https://play.fikrimarzuki.com): A project playground for experimenting with different ideas.
-* [CSS-Tricks](https://fikrimarzuki.github.io/css-tricks/): This website showcases vanilla CSS animations and more.
-* [Simple Projects](https://simple-projects-9139a.web.app/): A collection of various apps that i've created.
-
-Feel free to explore and check out my work! 😊
-
-<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-
 <p align="center">
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-    <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/fikri-marzuki/">
-			<img src="https://img.icons8.com/color/linkedin">
-    </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://github.com/fikrimarzuki">
-		  <img src="https://img.icons8.com/color/github">
-    </a>
-     <a style="margin-left: 10px;" target="_blank" href="https://gitlab.com/fikrimarzuki">
-  		  <img src="https://img.icons8.com/color/gitlab">
-      </a>
-  </div>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=4B9CD3&center=true&vCenter=true&width=600&lines=Fullstack+Software+Engineer;4%2B+Years+Experience;React+%7C+Vue+%7C+Next+%7C+Nuxt+%7C+.NET;Building+Scalable+Web+Applications" />
 </p>
 
-<!--
-**Fikrimarzuki/fikrimarzuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm <a href="https://cv.fikrimarzuki.com" target="blank">Fikri</a></h1>
+<h3 align="center">Full Stack Developer</h3>
+<p align="center">🌍 Open to Remote Opportunities | 🧑‍💻 Freelance Available</p>
 
-Here are some ideas to get you started:
+### 🧑‍💻 About Me
+- 🔹 Fullstack Software Engineer with **4+ years of professional experience**
+- 🔹 Frontend specialization using **Nuxt, Vue, React, and Next.js**
+- 🔹 Experienced in **building production-ready systems**, API design, and clean architecture
+- 🔹 Skilled with **Nginx, VPS deployments, CI/CD**, and cloud platforms
+- 🔹 Passionate about writing maintainable code and delivering reliable, high-quality applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Stack
+![Frontend](https://img.shields.io/badge/Frontend-Vue%20%7C%20Nuxt%20%7C%20React%20%7C%20Next.js-blue)
+![Backend](https://img.shields.io/badge/Backend-.NET%20%7C%20Node.js%20%7C%20Express-orange)
+![Database](https://img.shields.io/badge/Database-SQL%20Server%20%7C%20PostgreSQL%20%7C%20MySQL-lightgrey)
+![DevOps](https://img.shields.io/badge/DevOps-Nginx%20%7C%20VPS%20%7C%20CI/CD-green)
+![Tools](https://img.shields.io/badge/Tools-Figma%20%7C%20Jira%20%7C%20Whimsical%20%7C%20Git-yellow)
+
+---
+
+### 🚀 Featured Projects
+| Project | Description |
+|--------|-------------|
+| **Portfolio** | https://cv.fikrimarzuki.com |
+| **Playground** | https://play.fikrimarzuki.com |
+| **CSS Tricks** | https://fikrimarzuki.github.io/css-tricks |
+| **Simple Apps** | https://simple-projects-9139a.web.app |
+
+---
+
+### 📚 Currently Learning
+I'm expanding my backend skills through the **roadmap.sh Python path**.  
+📂 Repo: https://github.com/Fikrimarzuki/developer-roadmap
+
+---
+
+### <p align="center">🤝 Connect With Me</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/fikri-marzuki/">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="45" />
+  </a>
+  <a href="https://github.com/fikrimarzuki">
+    <img src="https://img.icons8.com/glyph-neue/48/github.png" width="45" />
+  </a>
+  <a href="https://gitlab.com/fikrimarzuki">
+    <img src="https://img.icons8.com/color/48/gitlab.png" width="45" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fikrimarzuki&color=4B9CD3&style=flat-square" />
+</p>
+
