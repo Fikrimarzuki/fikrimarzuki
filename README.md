@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=4B9CD3&center=true&vCenter=true&width=600&lines=Fullstack+Software+Engineer;4%2B+Years+Experience;React+%7C+Vue+%7C+Next+%7C+Nuxt+%7C+.NET;Building+Scalable+Web+Applications" />
 </p>
 
-<h1 align="center">Hi 👋, I'm <a href="https://cv.fikrimarzuki.com" target="blank">Fikri</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://cv.fikrimarzuki.work" target="blank">Fikri</a></h1>
 <h3 align="center">Full Stack Developer</h3>
 <p align="center">🌍 Open to Remote Opportunities | 🧑‍💻 Freelance Available</p>
 
@@ -27,10 +27,10 @@
 ### 🚀 Featured Projects
 | Project | Description |
 |--------|-------------|
-| **Portfolio** | https://cv.fikrimarzuki.com |
-| **Playground** | https://play.fikrimarzuki.com |
+| **Portfolio** | https://cv.fikrimarzuki.work |
+| **Playground** | https://play.fikrimarzuki.work |
+| **Tools Showcase** | https://tools.fikrimarzuki.work |
 | **CSS Tricks** | https://fikrimarzuki.github.io/css-tricks |
-| **Simple Apps** | https://simple-projects-9139a.web.app |
 
 ---
 
