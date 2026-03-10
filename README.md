@@ -29,7 +29,8 @@
 |--------|-------------|
 | **Portfolio** | https://cv.fikrimarzuki.work |
 | **Playground** | https://play.fikrimarzuki.work |
-| **Tools Showcase** | https://tools.fikrimarzuki.work |
+| **Tools** | https://tools.fikrimarzuki.work |
+| **Projects** | https://projects.fikrimarzuki.work |
 | **CSS Tricks** | https://fikrimarzuki.github.io/css-tricks |
 
 ---
