@@ -27,10 +27,13 @@
 ### 🚀 Featured Projects
 | Project | Description |
 |--------|-------------|
+| **MFM Gateway** | https://fikrimarzuki.work |
 | **Portfolio** | https://cv.fikrimarzuki.work |
 | **Playground** | https://play.fikrimarzuki.work |
 | **Tools** | https://tools.fikrimarzuki.work |
 | **Projects** | https://projects.fikrimarzuki.work |
+| **Roadmap** | https://roadmap.fikrimarzuki.work |
+| **Games** | https://games.fikrimarzuki.work |
 | **CSS Tricks** | https://fikrimarzuki.github.io/css-tricks |
 
 ---
