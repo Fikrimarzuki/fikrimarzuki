@@ -2,12 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=4B9CD3&center=true&vCenter=true&width=600&lines=Fullstack+Software+Engineer;4%2B+Years+Experience;React+%7C+Vue+%7C+Next+%7C+Nuxt+%7C+.NET;Building+Scalable+Web+Applications" />
 </p>
 
-<h1 align="center">Hi 👋, I'm <a href="https://cv.fikrimarzuki.work" target="blank">Fikri</a></h1>
-<h3 align="center">Full Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm <a href="https://fikrimarzuki.work" target="blank">Fikri Marzuki</a></h1>
+<h3 align="center">Full Stack Developer • 4+ Years Experience</h3>
 <p align="center">🌍 Open to Remote Opportunities | 🧑‍💻 Freelance Available</p>
 
 ### 🧑‍💻 About Me
-- 🔹 Fullstack Software Engineer with **4+ years of professional experience**
 - 🔹 Frontend specialization using **Nuxt, Vue, React, and Next.js**
 - 🔹 Experienced in **building production-ready systems**, API design, and clean architecture
 - 🔹 Skilled with **Nginx, VPS deployments, CI/CD**, and cloud platforms
@@ -16,25 +15,29 @@
 ---
 
 ### 🔧 Tech Stack
-![Frontend](https://img.shields.io/badge/Frontend-Vue%20%7C%20Nuxt%20%7C%20React%20%7C%20Next.js-blue)
-![Backend](https://img.shields.io/badge/Backend-.NET%20%7C%20Node.js%20%7C%20Express-orange)
-![Database](https://img.shields.io/badge/Database-SQL%20Server%20%7C%20PostgreSQL%20%7C%20MySQL-lightgrey)
-![DevOps](https://img.shields.io/badge/DevOps-Nginx%20%7C%20VPS%20%7C%20CI/CD-green)
-![Tools](https://img.shields.io/badge/Tools-Figma%20%7C%20Jira%20%7C%20Whimsical%20%7C%20Git-yellow)
+
+![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20Go%20%7C%20C%23-red)
+![Frontend](https://img.shields.io/badge/Frontend-Vue%20%7C%20Nuxt%20%7C%20React%20%7C%20Next.js%20%7C%20React%20Native%20%7C%20Tailwind-blue)
+![Backend](https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20.NET-orange)
+![Database](https://img.shields.io/badge/Database-SQL%20Server%20%7C%20PostgreSQL%20%7C%20MySQL%20%7C%20MongoDB-0ea5e9)
+![DevOps](https://img.shields.io/badge/DevOps-Nginx%20%7C%20VPS%20%7C%20CI%2FCD-green)
+![Tools](https://img.shields.io/badge/Tools-Figma%20%7C%20Jira%20%7C%20ClickUp%20%7C%20Whimsical%20%7C%20Git-yellow)
+![Platforms](https://img.shields.io/badge/Platforms-Supabase%20%7C%20Leaflet%20%7C%20Three.js%20%7C%20WebSockets-purple)
 
 ---
 
-### 🚀 Featured Projects
-| Project | Description |
-|--------|-------------|
-| **MFM Gateway** | https://fikrimarzuki.work |
-| **Portfolio** | https://cv.fikrimarzuki.work |
-| **Playground** | https://play.fikrimarzuki.work |
-| **Tools** | https://tools.fikrimarzuki.work |
-| **Projects** | https://projects.fikrimarzuki.work |
-| **Roadmap** | https://roadmap.fikrimarzuki.work |
-| **Games** | https://games.fikrimarzuki.work |
-| **CSS Tricks** | https://fikrimarzuki.github.io/css-tricks |
+### 🚀 My Developer Ecosystem
+| Platform | Link | Description |
+|--------|------|-------------|
+| 🌐 Gateway | https://fikrimarzuki.work | Central hub connecting all my platforms and projects |
+| 👨‍💻 Portfolio | https://cv.fikrimarzuki.work | My professional experience, skills, and career timeline |
+| 🧪 Playground | https://play.fikrimarzuki.work | Experimental apps and developer playground |
+| 🛠 Tools | https://tools.fikrimarzuki.work | Collection of browser-based developer utilities |
+| 📦 Projects | https://projects.fikrimarzuki.work | Showcase of applications and SaaS experiments |
+| 🗺 Roadmap | https://roadmap.fikrimarzuki.work | My structured developer learning journey |
+| 🎮 Games | https://games.fikrimarzuki.work | Interactive web games and experiments |
+| 📚 Learning | https://learn.fikrimarzuki.work | Programming notes and learning resources |
+| 🎨 CSS Tricks | https://fikrimarzuki.github.io/css-tricks | CSS experiments and UI techniques |
 
 ---
 
