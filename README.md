@@ -35,6 +35,7 @@
 | 🛠 Tools | https://tools.fikrimarzuki.work | Collection of browser-based developer utilities |
 | 📦 Projects | https://projects.fikrimarzuki.work | Showcase of applications and SaaS experiments |
 | 🗺 Roadmap | https://roadmap.fikrimarzuki.work | My structured developer learning journey |
+| ⚡ Dev Utils | https://utils.fikrimarzuki.work | Handy tools I built to speed up my daily dev workflow |
 | 🎮 Games | https://games.fikrimarzuki.work | Interactive web games and experiments |
 | 📚 Learning | https://learn.fikrimarzuki.work | Programming notes and learning resources |
 | 🎨 CSS Tricks | https://fikrimarzuki.github.io/css-tricks | CSS experiments and UI techniques |
