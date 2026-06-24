@@ -42,6 +42,21 @@
 
 ---
 
+### 🌙 After-Hours Projects
+
+| Project          | Demo                                                 | Description                                                         |
+| ---------------- | ---------------------------------------------------- | ------------------------------------------------------------------- |
+| 🎮 JavaScriptia  | [Live Demo](https://javascriptia.fikrimarzuki.work)  | Learn JavaScript through an RPG-style adventure game.               |
+| 💍 Nikah Kuy     | [Live Demo](https://aft-nikah.fikrimarzuki.work)     | Wedding planning platform with budgeting, vendors, and checklists.  |
+| 🃏 TCG Hub       | [Live Demo](https://aft-tcg.fikrimarzuki.work)       | Tournament, ranking, and community platform for trading card games. |
+| 🍜 Foodie Map    | [Live Demo](https://aft-foodie.fikrimarzuki.work)    | Interactive food discovery platform with map-based exploration.     |
+| ⚙️ Neuran Admin  | [Live Demo](https://neuran-admin.fikrimarzuki.work)  | Administrative dashboard for managing the Neuran ecosystem.         |
+| 📚 Neuran LMS    | [Live Demo](https://neuran-lms.fikrimarzuki.work)    | Learning management system for courses and educational content.     |
+| 🎯 Neuran Skill  | [Live Demo](https://neuran-skill.fikrimarzuki.work)  | Skill development and progress tracking platform.                   |
+| 👥 Neuran Social | [Live Demo](https://neuran-social.fikrimarzuki.work) | Community and social interaction platform.                          |
+
+---
+
 ### 📚 Currently Learning
 I'm expanding my backend skills through the **roadmap.sh Python path**.  
 📂 Repo: https://github.com/Fikrimarzuki/developer-roadmap
